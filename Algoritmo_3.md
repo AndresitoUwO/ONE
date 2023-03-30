@@ -4,7 +4,7 @@ Entrada:
   
   Variables a comparar = a
   
-Salida. V.Maximo
+Salida: V.Maximo
 
 Restricciones: Ninguna
 
