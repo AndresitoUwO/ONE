@@ -1,3 +1,6 @@
 Algoritmo: Encontrar_Numero_Mas_Grande
-  Entrada; n1 a n100
+  Entrada; n1 a n
 Restricciones: n1 a n100 pertenecen a los numeros Naturales
+Salida: n
+
+Proceso
