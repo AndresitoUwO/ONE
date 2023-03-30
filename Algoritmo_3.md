@@ -4,8 +4,9 @@ Entrada:
   
   Variables a comparar = a
   
+Salida. V.Maximo
 
-Restricciones: 
+Restricciones: Ninguna
 
 Proceso
 1. Pedir (leer) a
