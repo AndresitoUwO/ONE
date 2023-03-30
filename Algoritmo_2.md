@@ -1,8 +1,12 @@
 Algoritmo: Calcular_Promedio
+
   Entrada: a,b y c
+  
 Restricciones: 
    a,b,c: Pertenecen a los numeros Naturales
+   
 Salida: a + b + c / 3
+
 
   Proceso:
   1. Pedir (leer) a,b y c numericos
