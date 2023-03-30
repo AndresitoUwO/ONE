@@ -1,5 +1,5 @@
-Algoritmo: Calcular_Salario_Semanal
-Entrada: Dos numeros a y b 
+Algoritmo: Calcular_Salario_Semanal.
+Entrada: Dos numeros a y b. 
    Pago_por_hora = a
    Horas_Laboradas = b
 
