@@ -2,8 +2,7 @@ Algoritmo: Calcular_Promedio
 
   Entrada: a,b y c
   
-Restricciones: 
-   a,b,c: Pertenecen a los numeros Naturales
+Restricciones: Ninguna
    
 Salida: a + b + c / 3
 
