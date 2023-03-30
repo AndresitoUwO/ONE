@@ -1,8 +1,9 @@
-• Algoritmo: Calcular_Salario_Semanal
-• Entrada: Dos numeros a y b 
-• Pago_por_hora = a
-• Horas_Laboradas = b
-• Restricciones: a y b no pueden ser Negativos 
+Algoritmo: Calcular_Salario_Semanal
+Entrada: Dos numeros a y b 
+   Pago_por_hora = a
+   Horas_Laboradas = b
+
+Restricciones: a y b no pueden ser Negativos 
 
 Proceso:
 1. Pedir(leer) a y b numericos
